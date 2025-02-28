@@ -1,5 +1,5 @@
 - Hi, I’m @miles-alexander! 
-- I am currently a graduate student at Bellevue University expected to graduate in the Fall of 2024.
+- I am currently a graduate student at Bellevue University expected to graduate in the Spring of 2025.
 - Interested in learning more about Python, R Programming, SQL, Tableau, and anything else anyone is willing to teach.
 - I am also interested in cruising, traveling, reading, and playing video games.
 - I have learned the basics of coding in Python.
