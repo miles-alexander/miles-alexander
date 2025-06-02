@@ -1,6 +1,6 @@
 Hi, I’m @miles-alexander! 
 
-I am a **graduate student at Bellevue University**, expected to graduate in **Spring 2025**, with a strong passion for **data science, analytics, and artificial intelligence**. I am eager to expand my knowledge in **Python, R Programming, SQL, Tableau, and generative AI** and always open to learning from others in the field.  
+I am a **data scientist** with a strong passion for **data science, analytics, and artificial intelligence**. I am eager to expand my knowledge in **Python, R Programming, SQL, Tableau, and generative AI** and always open to learning from others in the field.  
 
 ### **Skills & Experience**  
 - **Programming & Data Science:** Proficient in **Python and R** for **data exploration, statistical analysis, and predictive modeling**. Experienced in **SQL** for data retrieval and manipulation.  
